@@ -39,7 +39,7 @@ I'm currently diving deep into the world of **Data Science** — learning how to
 
 ## 📬 **Let’s Connect**
 
-- 📧 **Email:** [simailsulaimonalamutu@gmail.com](mailto:simailsulaimonalamutu@gmail.com)
+- 📧 **Email:** [ismailsulaimonalamutu@gmail.com](mailto:simailsulaimonalamutu@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/ismail-alamutu](https://www.linkedin.com/in/ismail-alamutu-9462a7356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
