@@ -2,7 +2,7 @@
 
 ### 💻 Data Science Enthusiast | Future Analyst | Lifelong Learner
 
-I'm currently diving deep into the world of **Data Science** — learning how to transform data into insights using tools like **Python**, **Power BI**, **SQL**, and **Machine Learning**. I'm passionate about building real-world projects that make data useful and actionable.
+I'm currently diving deep into the world of **Data Science** — learning how to transform data into insights using tools like **Python**, **Power BI**, **SQL**, **Tableau**, and **Machine Learning**. I'm passionate about building real-world projects that make data useful and actionable.
 
 ---
 
@@ -39,7 +39,7 @@ I'm currently diving deep into the world of **Data Science** — learning how to
 
 ## 📬 **Let’s Connect**
 
-- 📧 **Email:** [ismailsulaimonalamutu@gmail.com](mailto:simailsulaimonalamutu@gmail.com)
+- 📧 **Email:** [ismailsulaimonalamutu@gmail.com](mailto:ismailsulaimonalamutu@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/ismail-alamutu](https://www.linkedin.com/in/ismail-alamutu-9462a7356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
